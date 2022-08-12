@@ -1,8 +1,8 @@
 import React from "react"
 import './App.css'
 
-import OneApp from "./components/OneApp"
-import TwoApp from "./components/TwoApp"
+// import OneApp from "./components/OneApp"
+// import TwoApp from "./components/TwoApp"
 import ThreeApp from "./components/ThreeApp"
 import FourApp from "./components/FourApp"
 
